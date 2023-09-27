@@ -21,3 +21,6 @@ https://delicate-walrus-052.notion.site/6-Create-a-daily-scrum-model-61dc3705499
 
 ## 7. Create the card view
 https://delicate-walrus-052.notion.site/7-Create-the-card-view-bc6c289de79148d29a8cfc8796cfb100?pvs=4
+
+## 8. Stylize the card
+https://delicate-walrus-052.notion.site/8-Stylize-the-card-14d3733b8217408a83e696d535200b92?pvs=4
