@@ -15,3 +15,6 @@ https://delicate-walrus-052.notion.site/4-Supplement-accessibility-data-e3bc0bfd
 
 ## 5. Create a color theme
 https://delicate-walrus-052.notion.site/5-Create-a-color-theme-c0229b70c27644cf95bd8354fc1595bc?pvs=4
+
+## 6. Create a daily scrum model
+https://delicate-walrus-052.notion.site/6-Create-a-daily-scrum-model-61dc3705499549f0b9470b6bcc2c61ca?pvs=4
