@@ -12,3 +12,6 @@ https://delicate-walrus-052.notion.site/3-Modify-and-style-views-60bd9f99deb44d8
 
 ## 4. Supplement accessibility data
 https://delicate-walrus-052.notion.site/4-Supplement-accessibility-data-e3bc0bfdd16b451aa6a9ebc86a1d9308?pvs=4
+
+## 5. Create a color theme
+https://delicate-walrus-052.notion.site/5-Create-a-color-theme-c0229b70c27644cf95bd8354fc1595bc?pvs=4
