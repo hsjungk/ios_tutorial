@@ -103,11 +103,9 @@
 		67B8F2782AC2BFA2009448F8 /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				67B8F2B02ACD6067009448F8 /* Views */,
 				67B8F2A42AC3AF11009448F8 /* Models */,
 				67B8F2792AC2BFA2009448F8 /* ScrumdingerApp.swift */,
-				67B8F27B2AC2BFA2009448F8 /* MeetingView.swift */,
-				67B8F2AB2AC3BA32009448F8 /* CardView.swift */,
-				67B8F2AD2AC42C9F009448F8 /* TrailingIconLabelStyle.swift */,
 				67B8F27D2AC2BFA3009448F8 /* Assets.xcassets */,
 				67B8F27F2AC2BFA3009448F8 /* Scrumdinger.entitlements */,
 				67B8F2802AC2BFA3009448F8 /* Preview Content */,
@@ -147,6 +145,16 @@
 				67B8F2A92AC3B574009448F8 /* DailyScrum.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		67B8F2B02ACD6067009448F8 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				67B8F27B2AC2BFA2009448F8 /* MeetingView.swift */,
+				67B8F2AB2AC3BA32009448F8 /* CardView.swift */,
+				67B8F2AD2AC42C9F009448F8 /* TrailingIconLabelStyle.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
