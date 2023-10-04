@@ -17,6 +17,7 @@
 		67B8F2A82AC3B159009448F8 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B8F2A72AC3B159009448F8 /* Theme.swift */; };
 		67B8F2AA2AC3B574009448F8 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B8F2A92AC3B574009448F8 /* DailyScrum.swift */; };
 		67B8F2AC2AC3BA32009448F8 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B8F2AB2AC3BA32009448F8 /* CardView.swift */; };
+		67B8F2AE2AC42C9F009448F8 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B8F2AD2AC42C9F009448F8 /* TrailingIconLabelStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		67B8F2A72AC3B159009448F8 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		67B8F2A92AC3B574009448F8 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		67B8F2AB2AC3BA32009448F8 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		67B8F2AD2AC42C9F009448F8 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				67B8F2792AC2BFA2009448F8 /* ScrumdingerApp.swift */,
 				67B8F27B2AC2BFA2009448F8 /* MeetingView.swift */,
 				67B8F2AB2AC3BA32009448F8 /* CardView.swift */,
+				67B8F2AD2AC42C9F009448F8 /* TrailingIconLabelStyle.swift */,
 				67B8F27D2AC2BFA3009448F8 /* Assets.xcassets */,
 				67B8F27F2AC2BFA3009448F8 /* Scrumdinger.entitlements */,
 				67B8F2802AC2BFA3009448F8 /* Preview Content */,
@@ -277,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67B8F2AA2AC3B574009448F8 /* DailyScrum.swift in Sources */,
+				67B8F2AE2AC42C9F009448F8 /* TrailingIconLabelStyle.swift in Sources */,
 				67B8F2A82AC3B159009448F8 /* Theme.swift in Sources */,
 				67B8F27C2AC2BFA2009448F8 /* MeetingView.swift in Sources */,
 				67B8F27A2AC2BFA2009448F8 /* ScrumdingerApp.swift in Sources */,

@@ -24,3 +24,6 @@ https://delicate-walrus-052.notion.site/7-Create-the-card-view-bc6c289de79148d29
 
 ## 8. Stylize the card
 https://delicate-walrus-052.notion.site/8-Stylize-the-card-14d3733b8217408a83e696d535200b92?pvs=4
+
+## 9. Customize the label style
+https://delicate-walrus-052.notion.site/9-Customize-the-label-style-0ec5c5bdeacf40f888ed0749bdb7e877?pvs=4
